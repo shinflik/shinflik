@@ -1,3 +1,3 @@
 # Coming Soon ...
-# Shinfik, a streaming platform for independent films 
+# Shinflik, a streaming platform for independent films 
 
