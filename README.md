@@ -1,1 +1,3 @@
-# The website is under construction!
+# Coming Soon ...
+# Shinfik, a streaming platform for independent films 
+
